@@ -3,4 +3,6 @@
 
 Source: 유튜브 "나도코딩" 채널
 
+사용된 편집툴: IntelliJ IDEA CE (무료버전)
+
 @Daijin-cat
